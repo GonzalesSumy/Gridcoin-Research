@@ -40,12 +40,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>These are your Gridcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation></translation>
+        <translation>Це Ваші адреси Gridcoin для отримання платежів. Ви можете давати різні адреси різним відправникам, щоб мати можливість відслідковувати хто робить платежі.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"></translation>
+        <translation>Клікніть два рази щоб відредагувати адресу чи ярлик</translation>
     </message>
     <message>
         <location line="+27"/>
