@@ -6,12 +6,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Gridcoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Про Gridcoin</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>&lt;b&gt;Gridcoin&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Gridcoin&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+58"/>
@@ -21,7 +21,13 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Це експериментальне програмне забезпечення.
+        
+Розповсюджується за ліцензією для програмного забезпечення MIT/X11, більш детально дивіться у супровідному файлі КОПІЮВАННЯ або на http://www.opensource.org/licenses/mit-license.php.
+
+Цей продукт включає програмне забезпечення розроблене Проектом OpenSSL для використання у Інструментарії OpenSSL (http://www.openssl.org/) та криптографічне програмне забезпечення, розроблене Еріком Янгом (eay@cryptsoft.com) та програмне забезпечення UPnP, розроблене Томасом Бернардом.
+        </translation>
     </message>
 </context>
 <context>
@@ -29,12 +35,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Адресна книга</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>These are your Gridcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+16"/>
