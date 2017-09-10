@@ -70,12 +70,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR код</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Gridcoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>Підпишіть повідомлення, щоб підтвердити що ви маєте адресу Gridcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,12 +90,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished">П&amp;еревірити повідомлення</translation>
+        <translation>&amp;Підтвердити повідомлення</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Вилучити вибрані адреси з переліку</translation>
+        <translation>Вилучити вибрану адресу з переліку</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -105,32 +105,32 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати &amp;ярлик</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати данні з адресної книги</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Error exporting</source>
-        <translation type="unfinished"></translation>
+        <translation>Екпортування помилок</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис до файлу неможливий %1.</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл з комами (* .csv)</translation>
     </message>
 </context>
 <context>
@@ -138,17 +138,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation type="unfinished">Мітка</translation>
+        <translation>Ярлик</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адреса</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished">немає мітки</translation>
+        <translation>немає мітки</translation>
     </message>
 </context>
 <context>
@@ -176,7 +176,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слугує для відключення звичайного пересилання грошей коли аккаунт ОС скомпроментований. Не забезпечує дійсного рівня безпеки.</translation>
     </message>
     <message>
         <location line="+3"/>
