@@ -181,78 +181,78 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки для накопичення</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+37"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть новий пароль до гаманця.&lt;br/&gt;Будьласка використовуйте пароль що складається щонайменьше з &lt;b&gt;десяти або більше випадкових знаків&lt;/b&gt;, або &lt;b&gt;восьми або більше слів&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Зашифрувати гаманець</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця операція потребує пароль від Вашого гаманця, щоб його відімкнути.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Відімкнути гаманець</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця операція потребує пароль від Вашого гаманця, щоб його розшифрувати.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Розшифрувати гаманець</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити пароль</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввести новий і старий пароль до гаманця.</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити шифрування гаманця</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Застереження: Якщо ви зашифруєте Ваш гаманець і втратите пароль, Ви &lt;b&gt;ВТРАТИТЕ ВСІ ВАШІ МОНЕТИ&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені що бажаєте зашифрувати Ваш гаманець?</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Гаманець зашифрований</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Gridcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gridcoin зараз закриється щоб завершити процес шифрування. Пам'ятайте, що шифрування Вашого гаманця не може повністю захистити Ваші монети від вікрадення у разі інфікування компьютеру шкідливим програмним забезпеченням.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВАЖЛИВО: Всі минулі резервні копії файлу Вашого гаманця повинні бути замінені на нові файли зашифрованого гаманця. З міркуваннь безпеки, минулі резервні копії файлу незашифрованого гаманця стануть непридатними до використання, як тільки ви почнете користуватися новим, зашифрованим гаманцем.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -260,23 +260,23 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося здійснити шифрування гаманця</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування не здійснено через внутрішню помилку. Ваш гаманець не було зашифровано.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Надані паролі не спувпадають.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося відкрити гаманець</translation>
     </message>
     <message>
         <location line="+1"/>
