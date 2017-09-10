@@ -283,23 +283,23 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введено неправильний для розшифрування гаманця.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося розшифрувати гаманець</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль до гаманця було вдало змінено.</translation>
     </message>
     <message>
         <location line="+48"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation type="unfinished"></translation>
+        <translation>Увага: Ввімкнено режим Caps Lock!</translation>
     </message>
 </context>
 <context>
@@ -307,7 +307,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+798"/>
         <source>Sign &amp;message...</source>
-        <translation>&amp;Підписати повідомлення...</translation>
+        <translation>Підписати &amp;повідомлення...</translation>
     </message>
     <message>
         <location line="-131"/>
@@ -322,12 +322,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+5"/>
         <source>Send coins to a Gridcoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>Відправити монети на адресу Gridcoin</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати список адрес для отримання платежів</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -342,63 +342,63 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>&amp;Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Адресна книга</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Відредагувати список збережених адрес та міток</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Block Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Переглядач блоків</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Block Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглядач блоків</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Exchange</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обмін</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+4"/>
         <source>Web Site</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб-сайт</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>&amp;Web Site</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Веб-сайт</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;GRC Chat Room</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Чат GRC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>GRC Chatroom</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат GRC</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;BOINC</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;BOINC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gridcoin rewards distributed computing with BOINC</source>
-        <translation type="unfinished"></translation>
+        <translation>Розподілені обчислення BOINC з винагородою Gridcoin</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>В&amp;ихід</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -418,7 +418,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування або розшифрування гаманця...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,7 +428,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>Змінити парол&amp;ь...</translation>
+        <translation>&amp;Змінити пароль...</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -443,47 +443,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Відкрити гаманець...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити гаманець</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закрити гаманець</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити гаманець</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Експортування...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished">Експортувати дані з поточної вкладки в файл</translation>
+        <translation>Експортувати дані з поточної вкладки в файл</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Debug window</source>
-        <translation>В&amp;ікно зневадження</translation>
+        <translation>&amp;Вікно відлагодження</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Відкрити консоль зневадження і діагностики</translation>
+        <translation>Відкрити консоль відлагодження і діагностики</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>П&amp;еревірити повідомлення...</translation>
+        <translation>&amp;Перевірити повідомлення...</translation>
     </message>
     <message>
         <location line="-623"/>
@@ -493,7 +493,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Gridcoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Gridcoin</translation>
     </message>
     <message>
         <location line="+496"/>
@@ -508,155 +508,155 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+65"/>
         <source>&amp;Rebuild Block Chain</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Відбудувати ланцюг блоків</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rebuild Block Chain</source>
-        <translation type="unfinished"></translation>
+        <translation>Відбудувати ланцюг блоків</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Download Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Завантажити блоки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Download Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити блоки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Upgrade Client</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Оновити клієнт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Upgrade Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити клієнт</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;About Gridcoin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Про Gridcoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Gridcoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати інформацію про Gridcoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Neural Network</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Нейронна мережа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Neural Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Нейронна мережа</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Advanced Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Розширені налаштування</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Advanced Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширені налаштування</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New User Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Майстер нових користувачів</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+590"/>
         <source>New User Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Майстер нових користувачів</translation>
     </message>
     <message>
         <location line="-665"/>
         <source>&amp;Voting</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Голосування</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Voting</source>
-        <translation type="unfinished"></translation>
+        <translation>Голосування</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>&amp;Foundation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;База</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Foundation</source>
-        <translation type="unfinished"></translation>
+        <translation>База</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Діагностика</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Діагностика</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>FA&amp;Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Часті питання</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Interactive FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>Часті питання</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Modify configuration options for Gridcoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити параметри конфігурації для Gridcoin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Show / Hide</source>
-        <translation>Показа&amp;ти / Приховати</translation>
+        <translation>&amp;Показати / Приховати</translation>
     </message>
     <message>
         <location line="+215"/>
         <location line="+9"/>
         <source>[testnet]</source>
-        <translation type="unfinished">[тестова мережа]</translation>
+        <translation>[тестова мережа]</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+64"/>
         <source>Gridcoin client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клієнт Gridcoin</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>%1 active connection(s) to Gridcoin network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 активних з'єднаннь з мережею Gridcoin</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>%1 second(s) ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 секунд тому</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 minute(s) ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 хвилин тому</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 hour(s) ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 годин тому</translation>
     </message>
     <message>
         <location line="+4"/>
